@@ -1,0 +1,50 @@
+inline-block,
+.container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+
+. main_banner_1{
+    width: 1200px;
+    height: 53px;
+    top: 30px;
+    left: 120px;
+}
+. main_banner_2 {
+    width: 1200px;
+    height: 450px;
+    top: 95px;
+    left: 120px;
+}
+. main_banner_1{
+    position: relative;
+    top: -25px;
+    right: -50px;
+}
+
+
+. main_banner_2 {
+    position: sticky;
+    top: 10px;
+}
+
+.list > li {
+    
+    position: relative;
+}
+
+.list > li > ul {
+
+    position: absolute;
+
+
+    top: 100%;
+    right: 0;
+    padding: 15px 0 0;
+    display: none;
+}
+
+.list > li:hover > ul {
+    display: block;
+}

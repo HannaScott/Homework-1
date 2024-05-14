@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang=ua>
+<body>
+<h1>Registration</h1>
+<p>Enter your email and password to register.</p>
+<input  type="Username">
+<br>
+<input  type="Enter your email">
+<br>
+<input  type="Password">
+<br>
+<input  type="Confirm password">
+<br>
+</body>
+</html>
+
+
+Головна сторінка
+
+
+<!DOCTYPE html>
+<html lang=ua>
+<body>
+<h2>Greenshop</h2>
+<main_banner_1/>
+ <main_banner_2/>
+</body>
+</html>
+
+<ul class="list">
+	<li>
+		<a href="#">Розділ 1</a>
+	</li>
+	<li>
+		<a href="#">Розділ 2</a>
+	</li>
+	<li>
+		<a href="#">Розділ 3</a>
+	</li>
+</ul>
